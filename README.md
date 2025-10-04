@@ -1,7 +1,7 @@
 # Music Genre Classification Capstone
 
 ## Overview
-For my Numerical Computing capstone, I tackled a music genre prediction challenge: given audio and metadata features for 5,000 tracks, build a model that accurately assigns each song to one of ten genres. I cleaned and preprocessed the data, engineered a robust pipeline, and leveraged XGBoost to deliver strong multi-class performance.
+For my Machine Learning capstone, I tackled a music genre prediction challenge: given audio and metadata features for 5,000 tracks, build a model that accurately assigns each song to one of ten genres. I cleaned and preprocessed the data, engineered a robust pipeline, and leveraged XGBoost to deliver strong multi-class performance.
 
 ## Features
 - **Data Cleaning & Imputation**  
